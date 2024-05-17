@@ -52,7 +52,7 @@
   - Code block: 🖐️ used
   - Conditions: 🖐️ used
   - Loops: 🖐️ used
-  - Assignment
+  - Assignment u
   - Regular expression: 🖐️ used
   - Interface: 🖐️ used
   - Namespaces: 🎓 known
@@ -72,11 +72,11 @@
   - Strong typing: 🎓 known
   - Weak typing: 🎓 known
   - Duck typing: 🎓 known
-  - Static typing
-  - Dynamic typing
+  - Static typing k
+  - Dynamic typing k
   - Nominal typing
   - Structural typing
-  - Explicit typing
+  - Explicit typing k
   - Type inference
   - Covariance
   - Contravariance
@@ -96,7 +96,7 @@
   - Callback: 🖐️ used
   - Listener: 🖐️ used
   - Composition: k
-  - Pipe
+  - Pipe k
   - Memoize: 👂 heard
   - Wrapper: 🎓 known
   - Functor: 👂 heard
@@ -148,7 +148,7 @@
   - Transpiler
   - Linter: 🖐️ used
   - Polyfill
-  - Interpreter
+  - Interpreter u
   - Linker
   - Dynamic linking
   - Static linking
@@ -200,7 +200,7 @@
   - Data clump
   - Feature envy
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem k
 - Runtimes and virtual machines
   - Bytecode
   - V8: 🖐️ used
@@ -223,7 +223,7 @@
   - Embedded OS
 - Standards
   - ASCII: 🖐️ used
-  - Escape sequence
+  - Escape sequence u
   - RFC
   - IETF
   - IANA
