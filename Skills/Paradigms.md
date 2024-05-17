@@ -20,12 +20,12 @@
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model: 👂 heard
-  - Lambda calculus
+  - Lambda calculus u
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition: 👂 heard
+  - Class composition: k
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -74,7 +74,7 @@
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator
+  - Iterator h
   - State
   - Bridge: 👂 heard
   - Builder
