@@ -1,94 +1,94 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components u
-  - Directories u
-  - GRASP k
-  - SOLID h
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 🎓 known
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code u
-  - Contract programming h
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage k
-  - Cohesion h
-  - Coupling h
+  - Code coverage: 🎓 known
+  - Cohesion: 👂 heard
+  - Coupling: 👂 heard
   - Cyclomatic complexity
-  - Reliability k
-  - Quality k
-  - Availability k
-  - Flexibility k
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer k
-  - Domain-specific language (DSL) h
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
-  - Multilayer approach h
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC) k
-  - Dependency injection (DI) u
-  - Clean architecture k
+  - Inversion of control (IoC): 🎓 known
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
-  - Agent h
+  - Agent: 👂 heard
   - Service locator
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram u
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation h
+  - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways h
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) k
-  - Solution visions h
-  - Solution capabilities h
-  - System design h
-  - Process modelling h
-  - Data modelling h
-  - Solution components k
-  - Risk assessment h
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components: 🎓 known
+  - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR)
-  - Clouds k
+  - Clouds: 🎓 known
   - BPMN
   - Low-code
   - No-code
-  - Metric k
-  - Metric abuse k
-  - ACID h
+  - Metric: 🎓 known
+  - Metric abuse: 🎓 known
+  - ACID: 👂 heard
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs h
-  - Enterprise strategy h
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope h
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance h
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
