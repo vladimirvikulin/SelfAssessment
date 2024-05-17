@@ -15,16 +15,16 @@
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons h
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🖐️ used
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🖐️ used
   - Dependency injection: 🖐️ used
-  - DI containers
-  - Coupling and cohesion
-  - Framework agnostic approach
+  - DI containers h
+  - Coupling and cohesion k
+  - Framework agnostic approach h
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🎓 known
@@ -33,13 +33,13 @@
   - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API h
+  - Web Streams API h
   - Crypto API: 🎓 known
   - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API: 🎓 known
-  - File system API (sync and async)
-  - Copy folder recursively
+  - File system API (sync and async) u
+  - Copy folder recursively k
   - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici: 🎓 known
@@ -49,14 +49,14 @@
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads`
-  - Module `node:child_process`
+  - Module `node:worker_threads` h
+  - Module `node:child_process` h
   - MessageChannel, MessagePort
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`: 🖐️ used
   - Module `node:assert`: 🖐️ used
-  - Internationalization
+  - Internationalization u
   - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`
 - Network
@@ -86,16 +86,16 @@
   - DNS: 👂 heard
   - SQL injection: 🎓 known
   - noDelay
-  - keep-alive: 👂 heard
-  - IP sticky sessions: 👂 heard
+  - keep-alive: k
+  - IP sticky sessions: k
 - Technique and tools
   - Native test runner: 🎓 known
   - Logging: 🎓 known
   - Application configuring: 🖐️ used
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
-  - Readable: 👂 heard
-  - Writable: 👂 heard
+  - Readable: k
+  - Writable: k
   - Transform
   - Back pressure
   - Buffer: 👂 heard
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory
-  - V8 binary serialization
+  - Shared memory h
+  - V8 binary serialization h
