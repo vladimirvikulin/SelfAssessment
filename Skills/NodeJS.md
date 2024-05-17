@@ -1,48 +1,48 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js: 🖐️ used
+  - Stateful and stateless servers: 🖐️ used
+  - Nonblocking I/O and blocking code: 🎓 known
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 🖐️ used
+  - Node.js LTS schedule: 🖐️ used
+  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
+  - Module-based permissions model: 👂 heard
+  - Isolation with modularity: 🖐️ used
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🎓 known
+  - Process-based permissions: 👂 heard
+  - Graceful shutdown: 🎓 known
+  - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
+  - Crypto API: 🎓 known
+  - Password hashing with crypto.scrypt: 🖐️ used
+  - Web Crypto API: 🎓 known
   - File system API (sync and async)
   - Copy folder recursively
-  - Worker threads
+  - Worker threads: 👂 heard
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 🎓 known
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -52,12 +52,12 @@
   - Module `node:worker_threads`
   - Module `node:child_process`
   - MessageChannel, MessagePort
-  - BroadcastChannel
-  - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - BroadcastChannel: 👂 heard
+  - Generating crypto random UUID: 🖐️ used
+  - Module `node:url` vs `new URL`: 🖐️ used
+  - Module `node:assert`: 🖐️ used
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,63 +65,63 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 👂 heard
+  - TCP/SSL: 👂 heard
+  - UDP: 👂 heard
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS: 👂 heard
+  - SQL injection: 🎓 known
   - noDelay
-  - keep-alive
-  - IP sticky sessions
+  - keep-alive: 👂 heard
+  - IP sticky sessions: 👂 heard
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner: 🎓 known
+  - Logging: 🎓 known
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer: 👂 heard
+  - Console: 🖐️ used
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 🎓 known
+  - Repository: 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD: 🖐️ used
+  - DTO: 👂 heard
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `Error`: 🖐️ used
+  - `error.cause`: 🎓 known
+  - `error.code`: 🎓 known
+  - `error.message`: 🖐️ used
+  - `error.stack`: 🎓 known
+  - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions: 🎓 known
+  - Heap dump: 👂 heard
+  - Debugging tools: 🎓 known
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
