@@ -10,13 +10,13 @@
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
   - Generic programming
-  - Concurrent computing: 👂 heard
+  - Concurrent computing: k
   - Asynchronous programming: 🖐️ used
-  - Parallel programming: 👂 heard
+  - Parallel programming: u
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages
+  - Domain-specific languages h
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model: 👂 heard
@@ -45,22 +45,22 @@
   - Hidden class: 🖐️ used
   - Object form: 🖐️ used
   - Instance: 🖐️ used
-  - Introspection
-  - Reflection
+  - Introspection h
+  - Reflection h
   - The diamond problem
 - GRASP
   - Information expert: 🎓 known
   - Creator: 🎓 known
   - Controller: 🎓 known
   - Indirection: 🎓 known
-  - Low coupling: 👂 heard
-  - High cohesion: 👂 heard
+  - Low coupling: k
+  - High cohesion: k
   - Protected variations: 🖐️ used
   - Pure fabrication
 - SOLID
   - Single-responsibility principle (SRP): 🎓 known
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
+  - Open–closed principle (OCP) h
+  - Liskov substitution principle (LSP) h
   - Interface segregation principle (ISP): 👂 heard
   - Dependency inversion principle (DIP): 🎓 known
 - Patterns
