@@ -95,7 +95,7 @@
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
-  - Composition: 👂 heard
+  - Composition: k
   - Pipe
   - Memoize: 👂 heard
   - Wrapper: 🎓 known
@@ -108,7 +108,7 @@
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record: 👂 heard
-  - Enum: 👂 heard
+  - Enum: k
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
@@ -194,7 +194,7 @@
   - Pass-through parameters: 👂 heard
   - Accumulate and fire
   - Use switch/case: 🖐️ used
-  - Temporary field
+  - Temporary field h
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments: 🎓 known
   - Data clump
