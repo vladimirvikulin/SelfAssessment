@@ -1,48 +1,48 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)
+  - Strong and weak sides of node.js u
+  - Stateful and stateless servers u
+  - Nonblocking I/O and blocking code k
+  - Event loop phases k
+  - Event loop microtasks and macrotasks h
+  - Garbage collection u
+  - Node.js LTS schedule u
+  - I/O-bound, CPU-bound, memory-bound tasks h
+  - Interactive applications (close to real-time) h
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules u
+  - ECMAScript modules u
+  - Module `node:module` u
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
+  - Module-based permissions model h
+  - Isolation with modularity u
+  - Dependency injection u
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
-  - Process-based permissions
-  - Graceful shutdown
-  - Clustering
+  - Command line arguments u
+  - Node.js CLI k
+  - Process-based permissions h
+  - Graceful shutdown k
+  - Clustering h
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
+  - Crypto API k
+  - Password hashing with crypto.scrypt u
+  - Web Crypto API k
   - File system API (sync and async)
   - Copy folder recursively
-  - Worker threads
+  - Worker threads h
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici k
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -52,12 +52,12 @@
   - Module `node:worker_threads`
   - Module `node:child_process`
   - MessageChannel, MessagePort
-  - BroadcastChannel
-  - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - BroadcastChannel h
+  - Generating crypto random UUID u
+  - Module `node:url` vs `new URL` u
+  - Module `node:assert` u
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,63 +65,63 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) h
+  - TCP/SSL h
+  - UDP h
   - TLS
-  - Websocket
+  - Websocket h
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS h
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS h
+  - SQL injection k
   - noDelay
-  - keep-alive
-  - IP sticky sessions
+  - keep-alive h
+  - IP sticky sessions h
 - Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Native test runner k
+  - Logging k
+  - Application configuring u
+  - Testing u
+  - CI/CD u
+  - Readable h
+  - Writable h
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer h
+  - Console u
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer k
+  - Repository h
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
-  - DTO
+  - CRUD u
+  - DTO h
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `Error` u
+  - `error.cause` k
+  - `error.code` k
+  - `error.message` u
+  - `error.stack` k
+  - `Error.captureStackTrace` k
   - How to avoid mixins
-  - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Uncaught exceptions k
+  - Heap dump h
+  - Debugging tools k
   - Flame graph
-  - Memory leaks
+  - Memory leaks h
   - Resource leaks
   - Data race
 - Integrations and bindings
