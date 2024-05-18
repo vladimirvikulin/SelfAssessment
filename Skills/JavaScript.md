@@ -46,13 +46,13 @@
   - `delete`: 🎓 known
   - `in`: 🖐️ used
   - `super`: 🖐️ used
-  - `eval`: 👂 heard
+  - `eval`: 🎓 known
   - `static`: 🖐️ used
   - `Number.parseInt`: 🖐️ used
   - `Number.parseFloat`: 🖐️ used
   - Property descriptors: 🎓 known
-  - Sealing properties: 👂 heard
-  - Freezing properties: 👂 heard
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
   - Computed properties: 🎓 known
   - Instance class fields: 🖐️ used
   - Static class fields: 🖐️ used
@@ -85,9 +85,9 @@
   - Function expression: 🖐️ used
   - Default parameters: 🖐️ used
   - Functional object: 🖐️ used
-  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.call`: 🎓 known
   - `Function.prototype.bind`: 🎓 known
-  - `Function.prototype.apply`: 👂 heard
+  - `Function.prototype.apply`: 🎓 known
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
@@ -95,21 +95,21 @@
   - `Set`: 🖐️ used
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
-  - Typed arrays: 👂 heard
-  - Mixins
-  - `Object.assign`: 👂 heard
+  - Typed arrays: 🎓 known
+  - Mixins: 👂 heard
+  - `Object.assign`: 🎓 known
 - Standard classes and namespaces
-  - `Proxy`: 👂 heard
+  - `Proxy`: 🎓 known
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
-  - `Reflect`
+  - `Reflect`: 👂 heard
   - `Error`: 🖐️ used
-  - `Atomics`
+  - `Atomics`: 🎓 known
   - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
+  - `Intl`: 🎓 known
   - `Promise`: 🎓 known
   - `console`: 🖐️ used
   - Timers: 🖐️ used

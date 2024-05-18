@@ -4,8 +4,8 @@
   - Event loop: 🎓 known
   - `try..catch`: 🖐️ used
   - Non-blocking: 🎓 known
-  - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,13 +14,13 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks: 👂 heard
-  - Live locks: 👂 heard
+  - Dead locks: 🖐️ used
+  - Live locks: 🎓 known
   - Concurrent programming: 👂 heard
-  - Parallel programming: 🎓 known
+  - Parallel programming: 🖐️ used
   - Actor Model: 👂 heard
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -35,11 +35,11 @@
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal: 👂 heard
-  - Stream: 👂 heard
+  - Signal: 🖐️ used
+  - Stream: 🎓 known
   - Chain of responsibility
-  - Middleware
-  - Locks: 👂 heard
+  - Middleware: 👂 heard
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify: 🖐️ used
   - promisify: 🎓 known
@@ -52,12 +52,12 @@
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
-  - Async Collector
-  - Semaphore: 👂 heard
-  - Mutex: 👂 heard
-  - Spin Lock
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
+  - Async Collector: 👂 heard
+  - Semaphore: 🖐️ used
+  - Mutex: 🖐️ used
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics: 👂 heard
+  - Atomics: 🖐️ used
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell: 👂 heard
@@ -77,7 +77,7 @@
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - Async.js library: 👂 heard
+  - Async.js library: 🎓 known
   - RxJS library: 👂 heard
   - Promise.all: 🎓 known
   - Promise.allSettled: 🎓 known
@@ -86,4 +86,4 @@
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing constructor: 👂 heard
+  - Revealing constructor: 🎓 known
