@@ -5,7 +5,7 @@
   - Components: 🖐️ used
   - Directories: 🖐️ used
   - GRASP: 🎓 known
-  - SOLID: k
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -17,7 +17,7 @@
   - Code coverage: 🎓 known
   - Cohesion: 👂 heard
   - Coupling: 👂 heard
-  - Cyclomatic complexity h
+  - Cyclomatic complexity: 👂 heard
   - Reliability: 🎓 known
   - Quality: 🎓 known
   - Availability: 🎓 known
@@ -25,7 +25,7 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer: 🎓 known
-  - Domain-specific language (DSL): k
+  - Domain-specific language (DSL): 🎓 known
   - System vs applied code
   - Multilayer approach: 👂 heard
   - Hexagonal architecture
@@ -48,9 +48,9 @@
   - UML
   - Work breakdown structure
   - Budget estimation: 👂 heard
-  - Distributed systems h
+  - Distributed systems: 👂 heard
   - High-intensive computing
-  - Load balancing h
+  - Load balancing: 👂 heard
   - Gateways: 👂 heard
   - On-premises
   - IaaS

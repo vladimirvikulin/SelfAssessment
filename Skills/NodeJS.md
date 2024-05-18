@@ -15,16 +15,16 @@
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons h
+  - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`: 🖐️ used
   - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🖐️ used
   - Dependency injection: 🖐️ used
-  - DI containers h
-  - Coupling and cohesion k
-  - Framework agnostic approach h
+  - DI containers: 👂 heard
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🎓 known
@@ -33,13 +33,13 @@
   - Clustering: 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API h
-  - Web Streams API h
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
   - Crypto API: 🎓 known
   - Password hashing with crypto.scrypt: 🖐️ used
   - Web Crypto API: 🎓 known
-  - File system API (sync and async) u
-  - Copy folder recursively k
+  - File system API (sync and async): 🖐️ used
+  - Copy folder recursively: 🎓 known
   - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici: 🎓 known
@@ -49,14 +49,14 @@
   - Deprecated domain API
   - Node.js single executable
   - SharedArrayBuffer
-  - Module `node:worker_threads` h
-  - Module `node:child_process` h
+  - Module `node:worker_threads`: 👂 heard
+  - Module `node:child_process`: 👂 heard
   - MessageChannel, MessagePort
   - BroadcastChannel: 👂 heard
   - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`: 🖐️ used
   - Module `node:assert`: 🖐️ used
-  - Internationalization u
+  - Internationalization: 🖐️ used
   - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`
 - Network
@@ -86,16 +86,16 @@
   - DNS: 👂 heard
   - SQL injection: 🎓 known
   - noDelay
-  - keep-alive: k
-  - IP sticky sessions: k
+  - keep-alive: 🎓 known
+  - IP sticky sessions: 🎓 known
 - Technique and tools
   - Native test runner: 🎓 known
   - Logging: 🎓 known
   - Application configuring: 🖐️ used
   - Testing: 🖐️ used
   - CI/CD: 🖐️ used
-  - Readable: k
-  - Writable: k
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
   - Back pressure
   - Buffer: 👂 heard
@@ -139,5 +139,5 @@
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`
-  - Shared memory h
-  - V8 binary serialization h
+  - Shared memory: 👂 heard
+  - V8 binary serialization: 👂 heard

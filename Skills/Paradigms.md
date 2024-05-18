@@ -10,22 +10,22 @@
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
   - Generic programming
-  - Concurrent computing: k
+  - Concurrent computing: 🎓 known
   - Asynchronous programming: 🖐️ used
-  - Parallel programming: u
+  - Parallel programming: 🖐️ used
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages h
+  - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
   - Actor model: 👂 heard
-  - Lambda calculus u
+  - Lambda calculus: 🖐️ used
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition: k
+  - Class composition: 🎓 known
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -45,22 +45,22 @@
   - Hidden class: 🖐️ used
   - Object form: 🖐️ used
   - Instance: 🖐️ used
-  - Introspection h
-  - Reflection h
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
   - The diamond problem
 - GRASP
   - Information expert: 🎓 known
   - Creator: 🎓 known
   - Controller: 🎓 known
   - Indirection: 🎓 known
-  - Low coupling: k
-  - High cohesion: k
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
   - Protected variations: 🖐️ used
   - Pure fabrication
 - SOLID
   - Single-responsibility principle (SRP): 🎓 known
-  - Open–closed principle (OCP) h
-  - Liskov substitution principle (LSP) h
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
   - Interface segregation principle (ISP): 👂 heard
   - Dependency inversion principle (DIP): 🎓 known
 - Patterns
@@ -74,7 +74,7 @@
   - Proxy: 👂 heard
   - Chain of Responsibility: 👂 heard
   - Command
-  - Iterator h
+  - Iterator: 👂 heard
   - State
   - Bridge: 👂 heard
   - Builder

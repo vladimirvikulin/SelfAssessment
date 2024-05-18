@@ -52,7 +52,7 @@
   - Code block: 🖐️ used
   - Conditions: 🖐️ used
   - Loops: 🖐️ used
-  - Assignment u
+  - Assignment: 🖐️ used
   - Regular expression: 🖐️ used
   - Interface: 🖐️ used
   - Namespaces: 🎓 known
@@ -72,11 +72,11 @@
   - Strong typing: 🎓 known
   - Weak typing: 🎓 known
   - Duck typing: 🎓 known
-  - Static typing k
-  - Dynamic typing k
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
-  - Explicit typing k
+  - Explicit typing: 🎓 known
   - Type inference
   - Covariance
   - Contravariance
@@ -95,8 +95,8 @@
   - Tail call optimisation
   - Callback: 🖐️ used
   - Listener: 🖐️ used
-  - Composition: k
-  - Pipe k
+  - Composition: 🎓 known
+  - Pipe: 🎓 known
   - Memoize: 👂 heard
   - Wrapper: 🎓 known
   - Functor: 👂 heard
@@ -108,7 +108,7 @@
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record: 👂 heard
-  - Enum: k
+  - Enum: 🎓 known
   - Instance: 🖐️ used
   - Object: 🖐️ used
   - Collection: 🖐️ used
@@ -148,7 +148,7 @@
   - Transpiler
   - Linter: 🖐️ used
   - Polyfill
-  - Interpreter u
+  - Interpreter: 🖐️ used
   - Linker
   - Dynamic linking
   - Static linking
@@ -194,13 +194,13 @@
   - Pass-through parameters: 👂 heard
   - Accumulate and fire
   - Use switch/case: 🖐️ used
-  - Temporary field h
+  - Temporary field: 👂 heard
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
   - Monkey patch
-  - Yo-yo problem k
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
   - Bytecode
   - V8: 🖐️ used
@@ -223,7 +223,7 @@
   - Embedded OS
 - Standards
   - ASCII: 🖐️ used
-  - Escape sequence u
+  - Escape sequence: 🖐️ used
   - RFC
   - IETF
   - IANA

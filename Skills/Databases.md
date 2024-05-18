@@ -3,14 +3,14 @@
 - Theory and concepts
   - Data types: 🖐️ used
   - Performance tuning: 👂 heard
-  - Migrations: k
+  - Migrations: 🎓 known
   - Schema versioning: 👂 heard
-  - Backup and recovery: k
-  - Database scalability: k
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🎓 known
   - Relational databases: 🖐️ used
   - Key-value store: 🖐️ used
   - Tuple store: 👂 heard
-  - Graph databases h
+  - Graph databases: 👂 heard
   - Object databases: 🖐️ used
   - Column databases
   - Navigational databases
@@ -34,7 +34,7 @@
   - SQL functions
   - Materialized views
   - Replications
-  - Virtualization: k
+  - Virtualization: 🎓 known
 - SQL
   - `SELECT`: 🖐️ used
   - `INSERT`: 🖐️ used
@@ -68,7 +68,7 @@
   - `GRANT`: 🎓 known
   - `REVOKE`: 🎓 known
   - `DENY`: 🎓 known
-  - `EXPLAIN` h
+  - `EXPLAIN`: 👂 heard
 - Engines
   - PostgreSQL: 👂 heard
   - Oracle: 🖐️ used
@@ -85,10 +85,10 @@
   - DynamoDB
   - Firebase
 - Data engineering
-  - Data warehousing h
+  - Data warehousing: 👂 heard
   - Business intelligence
-  - Big data h
-  - Data analysis h
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
   - AI tools
-  - Cloud databases h
-  - Data Visualization h
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard
